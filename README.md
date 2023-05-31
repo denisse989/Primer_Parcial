@@ -37,7 +37,13 @@ Finalmente se tiene la App.jsx que es la que se encarga de integrar los componen
 * useState: Donde utiliza el estado de las constantes para controlar el contenido del formulario de busqueda de la página y los envia a sus componentes para su uso.
 * useEffect: Se utiliza el efecto para guardar los datos del array de películas obtenido luego de aplicar un filtro en el almacenamiento local cada vez que cambien por un filtro o por ser restaurado.
 * map y filter: Utiliza estos métodos para renderizar el array de películas de la página de manera dinámica.
-* localStorage: Utiliza el almacenamiento local para almacenar los datos del array de películas filtradas de manera persistente. 
+* localStorage: Utiliza el almacenamiento local para almacenar los datos del array de películas filtradas de manera persistente.
+ 
+## Resultado
+Con la estructura anterior y los estilos de Tailwind CSS se logro tener la siguiente pagína:
+
+![image](https://github.com/denisse989/Primer_Parcial/assets/60879365/3a272ae2-7e67-4960-986d-38a9e3c5673b)
+
 
 ## Video Explicativo
 
